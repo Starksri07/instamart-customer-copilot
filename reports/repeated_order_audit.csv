@@ -1,0 +1,773 @@
+order_id,row_count,customer_count,product_count,quantity_count,amount_count,timestamp_count,status_count,statuses
+ORD-100004,2,1,1,1,1,2,2,completed | pending
+ORD-100010,2,1,1,1,1,2,2,completed | pending
+ORD-100020,2,1,1,1,1,2,2,cancelled | pending
+ORD-100029,2,1,1,1,1,2,2,completed | pending
+ORD-100050,2,1,1,1,1,1,1,completed
+ORD-100062,2,1,1,1,1,2,2,completed | pending
+ORD-100073,2,1,1,1,1,2,2,completed | pending
+ORD-100080,2,1,1,1,1,2,2,cancelled | pending
+ORD-100084,2,1,1,1,1,2,2,completed | pending
+ORD-100097,2,1,1,1,1,2,2,completed | pending
+ORD-100107,3,1,1,1,1,2,2,completed | pending
+ORD-100164,2,1,1,1,1,2,2,cancelled | pending
+ORD-100181,2,1,1,1,1,2,2,cancelled | pending
+ORD-100186,2,1,1,1,1,2,2,completed | pending
+ORD-100195,2,1,1,1,1,2,2,completed | pending
+ORD-100219,2,1,1,1,1,2,2,completed | pending
+ORD-100240,2,1,1,1,1,2,2,completed | pending
+ORD-100261,2,1,1,1,1,1,1,cancelled
+ORD-100272,2,1,1,1,1,2,2,completed | pending
+ORD-100277,2,1,1,1,1,2,2,completed | pending
+ORD-100307,2,1,1,1,1,2,2,completed | pending
+ORD-100325,2,1,1,1,1,2,2,completed | pending
+ORD-100342,2,1,1,1,1,2,2,completed | pending
+ORD-100344,2,1,1,1,1,2,2,completed | pending
+ORD-100395,2,1,1,1,1,2,2,completed | pending
+ORD-100398,2,1,1,1,1,2,2,completed | pending
+ORD-100441,2,1,1,1,1,2,2,completed | pending
+ORD-100447,2,1,1,1,1,2,2,completed | pending
+ORD-100474,2,1,1,1,1,1,1,completed
+ORD-100489,2,1,1,1,1,2,2,completed | pending
+ORD-100509,2,1,1,1,1,2,2,completed | pending
+ORD-100523,2,1,1,1,1,2,2,completed | pending
+ORD-100561,2,1,1,1,1,2,2,completed | pending
+ORD-100566,2,1,1,1,1,2,2,cancelled | pending
+ORD-100591,2,1,1,1,1,2,2,completed | pending
+ORD-100602,2,1,1,1,1,2,2,completed | pending
+ORD-100615,2,1,1,1,1,2,2,completed | pending
+ORD-100620,2,1,1,1,1,2,2,completed | pending
+ORD-100649,2,1,1,1,1,1,1,completed
+ORD-100668,2,1,1,1,1,2,2,cancelled | pending
+ORD-100685,2,1,1,1,1,2,2,completed | pending
+ORD-100712,2,1,1,1,1,2,2,completed | pending
+ORD-100752,2,1,1,1,1,2,2,completed | pending
+ORD-100759,2,1,1,1,1,2,2,completed | pending
+ORD-100761,2,1,1,1,1,1,1,completed
+ORD-100784,2,1,1,1,1,1,1,completed
+ORD-100821,2,1,1,1,1,2,2,completed | pending
+ORD-100860,2,1,1,1,1,2,2,completed | pending
+ORD-100870,2,1,1,1,1,2,2,completed | pending
+ORD-100925,2,1,1,1,1,2,2,completed | pending
+ORD-100946,2,1,1,1,1,2,2,completed | pending
+ORD-100967,2,1,1,1,1,2,2,cancelled | pending
+ORD-100981,2,1,1,1,1,2,2,cancelled | pending
+ORD-100983,2,1,1,1,1,2,2,completed | pending
+ORD-100986,2,1,1,1,1,2,2,completed | pending
+ORD-100989,2,1,1,1,1,1,1,completed
+ORD-101042,2,1,1,1,1,2,2,completed | pending
+ORD-101044,2,1,1,1,1,1,1,completed
+ORD-101045,2,1,1,1,1,2,2,completed | pending
+ORD-101064,2,1,1,1,1,2,2,completed | pending
+ORD-101077,2,1,1,1,1,2,2,completed | pending
+ORD-101091,2,1,1,1,1,2,2,completed | pending
+ORD-101138,2,1,1,1,1,2,2,completed | pending
+ORD-101140,2,1,1,1,1,2,2,completed | pending
+ORD-101142,2,1,1,1,1,2,2,completed | pending
+ORD-101157,2,1,1,1,1,2,2,completed | pending
+ORD-101159,2,1,1,1,1,1,1,cancelled
+ORD-101175,2,1,1,1,1,2,2,completed | pending
+ORD-101201,2,1,1,1,1,1,1,completed
+ORD-101209,2,1,1,1,0,2,2,completed | pending
+ORD-101222,2,1,1,1,1,2,2,completed | pending
+ORD-101335,2,1,1,1,1,1,1,completed
+ORD-101340,2,1,1,1,1,2,2,completed | pending
+ORD-101362,2,1,1,1,1,2,2,completed | pending
+ORD-101368,2,1,1,1,1,2,2,completed | pending
+ORD-101381,2,1,1,1,1,2,2,completed | pending
+ORD-101411,2,1,1,1,1,1,1,cancelled
+ORD-101430,2,1,1,1,1,2,2,completed | pending
+ORD-101432,2,1,1,1,1,2,2,completed | pending
+ORD-101458,2,1,1,1,1,2,2,completed | pending
+ORD-101476,2,1,1,1,1,2,2,completed | pending
+ORD-101502,2,1,1,1,1,2,2,completed | pending
+ORD-101518,2,1,1,1,1,2,2,completed | pending
+ORD-101519,2,1,1,1,1,1,1,completed
+ORD-101524,2,1,1,1,1,2,2,completed | pending
+ORD-101547,2,1,1,1,1,2,2,completed | pending
+ORD-101569,2,1,1,1,1,1,1,cancelled
+ORD-101592,2,1,1,1,1,2,2,completed | pending
+ORD-101602,2,1,1,1,1,2,2,completed | pending
+ORD-101626,2,1,1,1,1,2,2,completed | pending
+ORD-101631,2,1,1,1,1,2,2,completed | pending
+ORD-101639,2,1,1,1,1,2,2,completed | pending
+ORD-101654,2,1,1,1,1,2,2,completed | pending
+ORD-101661,2,1,1,1,1,2,2,cancelled | pending
+ORD-101673,2,1,1,1,1,2,2,completed | pending
+ORD-101728,2,1,1,1,1,2,2,completed | pending
+ORD-101786,2,1,1,1,1,1,1,cancelled
+ORD-101797,2,1,1,1,1,2,2,completed | pending
+ORD-101803,2,1,1,1,1,2,2,completed | pending
+ORD-101810,2,1,1,1,1,2,2,completed | pending
+ORD-101827,2,1,1,1,1,2,2,completed | pending
+ORD-101836,2,1,1,1,1,2,2,completed | pending
+ORD-101837,2,1,1,1,1,2,2,completed | pending
+ORD-101839,2,1,1,1,1,2,2,completed | pending
+ORD-101874,2,1,1,1,1,1,1,completed
+ORD-101891,2,1,1,1,1,2,2,completed | pending
+ORD-101896,2,1,1,1,1,2,2,completed | pending
+ORD-101924,2,1,1,1,1,2,2,completed | pending
+ORD-101941,2,1,1,1,1,2,2,completed | pending
+ORD-101955,2,1,1,1,1,1,1,completed
+ORD-101966,2,1,1,1,1,1,1,completed
+ORD-101973,2,1,1,1,1,2,2,completed | pending
+ORD-102010,2,1,1,1,1,2,2,cancelled | pending
+ORD-102015,2,1,1,1,1,1,1,completed
+ORD-102038,2,1,1,1,1,2,2,completed | pending
+ORD-102053,2,1,1,1,1,1,1,completed
+ORD-102072,2,1,1,1,1,2,2,completed | pending
+ORD-102076,2,1,1,1,1,2,2,completed | pending
+ORD-102079,2,1,1,1,1,2,2,completed | pending
+ORD-102116,2,1,1,1,1,2,2,completed | pending
+ORD-102121,2,1,1,1,1,2,2,completed | pending
+ORD-102142,2,1,1,1,1,2,2,completed | pending
+ORD-102161,2,1,1,1,1,2,2,completed | pending
+ORD-102163,2,1,1,1,1,2,2,cancelled | pending
+ORD-102189,2,1,1,1,1,1,1,completed
+ORD-102190,2,1,1,1,1,1,1,completed
+ORD-102204,2,1,1,1,1,2,2,cancelled | pending
+ORD-102209,2,1,1,1,1,2,2,completed | pending
+ORD-102216,2,1,1,1,1,2,2,completed | pending
+ORD-102235,2,1,1,1,1,2,2,completed | pending
+ORD-102242,2,1,1,1,1,2,2,completed | pending
+ORD-102245,2,1,1,1,1,2,2,completed | pending
+ORD-102255,2,1,1,1,1,1,1,cancelled
+ORD-102271,2,1,1,1,1,2,2,completed | pending
+ORD-102289,2,1,1,1,1,2,2,completed | pending
+ORD-102291,2,1,1,1,1,2,2,cancelled | pending
+ORD-102364,2,1,1,1,1,2,2,completed | pending
+ORD-102369,2,1,1,1,1,2,2,completed | pending
+ORD-102373,2,1,1,1,1,2,2,completed | pending
+ORD-102375,2,1,1,1,1,2,2,completed | pending
+ORD-102382,2,1,1,1,1,2,2,completed | pending
+ORD-102425,2,1,1,1,1,2,2,completed | pending
+ORD-102437,2,1,1,1,1,2,2,completed | pending
+ORD-102476,2,1,1,1,1,1,1,completed
+ORD-102482,2,1,1,1,1,2,2,completed | pending
+ORD-102494,2,1,1,1,1,2,2,completed | pending
+ORD-102495,2,1,1,1,1,2,2,completed | pending
+ORD-102510,2,1,1,1,1,2,2,completed | pending
+ORD-102529,2,1,1,1,1,2,2,completed | pending
+ORD-102543,2,1,1,1,1,2,2,completed | pending
+ORD-102554,2,1,1,1,1,1,1,completed
+ORD-102580,2,1,1,1,1,2,2,completed | pending
+ORD-102584,2,1,1,1,1,2,2,cancelled | pending
+ORD-102608,2,1,1,1,1,2,2,completed | pending
+ORD-102637,2,1,1,1,1,2,2,completed | pending
+ORD-102641,2,1,1,1,1,2,2,completed | pending
+ORD-102647,2,1,1,1,1,1,1,completed
+ORD-102649,2,1,1,1,1,2,2,completed | pending
+ORD-102668,2,1,1,1,1,2,2,completed | pending
+ORD-102699,2,1,1,1,1,2,2,completed | pending
+ORD-102708,2,1,1,1,1,2,2,completed | pending
+ORD-102715,2,1,1,1,1,2,2,completed | pending
+ORD-102720,2,1,1,1,1,2,2,completed | pending
+ORD-102725,2,1,1,1,1,2,2,completed | pending
+ORD-102734,2,1,1,1,1,1,1,completed
+ORD-102745,2,1,1,1,1,1,1,completed
+ORD-102779,2,1,1,1,1,2,2,completed | pending
+ORD-102794,2,1,1,1,1,2,2,completed | pending
+ORD-102796,2,1,1,1,1,2,2,completed | pending
+ORD-102797,2,1,1,1,1,2,2,completed | pending
+ORD-102806,2,1,1,1,1,2,2,cancelled | pending
+ORD-102813,2,1,1,1,1,2,2,completed | pending
+ORD-102815,2,1,1,1,1,2,2,completed | pending
+ORD-102819,2,1,1,1,1,2,2,completed | pending
+ORD-102886,2,1,1,1,1,2,2,completed | pending
+ORD-102895,2,1,1,1,1,2,2,cancelled | pending
+ORD-102902,2,1,1,1,1,2,2,completed | pending
+ORD-102948,2,1,1,1,1,2,2,completed | pending
+ORD-102955,2,1,1,1,1,2,2,cancelled | pending
+ORD-102964,2,1,1,1,1,2,2,cancelled | pending
+ORD-102965,2,1,1,1,1,2,2,completed | pending
+ORD-103007,2,1,1,1,1,2,2,completed | pending
+ORD-103047,2,1,1,1,1,2,2,cancelled | pending
+ORD-103053,2,1,1,1,1,2,2,completed | pending
+ORD-103067,2,1,1,1,1,2,2,completed | pending
+ORD-103079,2,1,1,1,1,2,2,cancelled | pending
+ORD-103087,2,1,1,1,1,1,1,completed
+ORD-103093,2,1,1,1,1,2,2,completed | pending
+ORD-103096,2,1,1,1,1,2,2,completed | pending
+ORD-103103,2,1,1,1,1,2,2,completed | pending
+ORD-103107,2,1,1,1,1,2,2,completed | pending
+ORD-103129,2,1,1,1,1,2,2,completed | pending
+ORD-103138,2,1,1,1,1,2,2,completed | pending
+ORD-103154,2,1,1,1,1,2,2,completed | pending
+ORD-103172,2,1,1,1,1,1,1,cancelled
+ORD-103178,2,1,1,1,1,2,2,completed | pending
+ORD-103187,2,1,1,1,1,2,2,completed | pending
+ORD-103212,2,1,1,1,1,1,1,completed
+ORD-103220,2,1,1,1,1,2,2,completed | pending
+ORD-103232,2,1,1,1,1,2,2,completed | pending
+ORD-103251,2,1,1,1,1,2,2,completed | pending
+ORD-103290,2,1,1,1,1,2,2,completed | pending
+ORD-103310,2,1,1,1,1,2,2,completed | pending
+ORD-103314,2,1,1,1,1,1,1,completed
+ORD-103327,2,1,1,1,1,2,2,completed | pending
+ORD-103352,2,1,1,1,1,2,2,completed | pending
+ORD-103371,2,1,1,1,1,2,2,completed | pending
+ORD-103397,2,1,1,1,1,2,2,cancelled | pending
+ORD-103406,2,1,1,1,1,2,2,completed | pending
+ORD-103423,2,1,1,1,1,2,2,cancelled | pending
+ORD-103449,2,1,1,1,1,2,2,completed | pending
+ORD-103452,2,1,1,1,1,2,2,completed | pending
+ORD-103457,2,1,1,1,1,2,2,completed | pending
+ORD-103505,2,1,1,1,1,2,2,completed | pending
+ORD-103528,2,1,1,1,1,1,1,completed
+ORD-103530,2,1,1,1,1,2,2,completed | pending
+ORD-103585,2,1,1,1,1,2,2,completed | pending
+ORD-103607,2,1,1,1,1,2,2,completed | pending
+ORD-103646,2,1,1,1,1,2,2,completed | pending
+ORD-103650,2,1,1,1,1,2,2,completed | pending
+ORD-103686,2,1,1,1,1,2,2,completed | pending
+ORD-103689,2,1,1,1,1,2,2,completed | pending
+ORD-103720,2,1,1,1,1,2,2,completed | pending
+ORD-103722,2,1,1,1,1,2,2,completed | pending
+ORD-103754,2,1,1,1,1,2,2,completed | pending
+ORD-103766,2,1,1,1,1,2,2,completed | pending
+ORD-103767,2,1,1,1,1,2,2,completed | pending
+ORD-103769,2,1,1,1,1,2,2,completed | pending
+ORD-103771,2,1,1,1,1,2,2,completed | pending
+ORD-103819,2,1,1,1,1,2,2,completed | pending
+ORD-103821,2,1,1,1,1,2,2,cancelled | pending
+ORD-103837,2,1,1,1,1,1,1,completed
+ORD-103841,2,1,1,1,1,2,2,cancelled | pending
+ORD-103842,2,1,1,1,1,2,2,cancelled | pending
+ORD-103844,2,1,1,1,1,2,2,completed | pending
+ORD-103853,2,1,1,1,1,2,2,completed | pending
+ORD-103860,2,1,1,1,1,2,2,completed | pending
+ORD-103878,2,1,1,1,1,2,2,completed | pending
+ORD-103885,2,1,1,1,1,2,2,completed | pending
+ORD-103889,2,1,1,1,1,2,2,completed | pending
+ORD-103910,2,1,1,1,1,2,2,completed | pending
+ORD-103915,2,1,1,1,1,1,1,completed
+ORD-103928,2,1,1,1,1,2,2,completed | pending
+ORD-103947,2,1,1,1,1,2,2,completed | pending
+ORD-103971,2,1,1,1,1,2,2,cancelled | pending
+ORD-103981,2,1,1,1,1,1,1,completed
+ORD-103988,2,1,1,1,1,2,2,completed | pending
+ORD-103995,2,1,1,1,1,2,2,completed | pending
+ORD-104008,2,1,1,1,1,2,2,cancelled | pending
+ORD-104090,2,1,1,1,1,1,1,completed
+ORD-104095,2,1,1,1,1,2,2,completed | pending
+ORD-104121,2,1,1,1,1,2,2,completed | pending
+ORD-104132,2,1,1,1,1,2,2,completed | pending
+ORD-104148,2,1,1,1,1,2,2,completed | pending
+ORD-104163,2,1,1,1,1,2,2,completed | pending
+ORD-104165,2,1,1,1,1,2,2,completed | pending
+ORD-104173,2,1,1,1,1,2,2,completed | pending
+ORD-104177,2,1,1,1,1,2,2,completed | pending
+ORD-104210,2,1,1,1,1,1,1,completed
+ORD-104242,2,1,1,1,1,2,2,completed | pending
+ORD-104249,2,1,1,1,1,2,2,completed | pending
+ORD-104258,2,1,1,1,1,2,2,completed | pending
+ORD-104267,2,1,1,1,1,2,2,completed | pending
+ORD-104292,2,1,1,1,1,2,2,completed | pending
+ORD-104300,2,1,1,1,1,2,2,completed | pending
+ORD-104333,2,1,1,1,1,2,2,completed | pending
+ORD-104343,2,1,1,1,1,2,2,completed | pending
+ORD-104364,2,1,1,1,1,2,2,completed | pending
+ORD-104371,2,1,1,1,1,2,2,completed | pending
+ORD-104391,2,1,1,1,1,2,2,completed | pending
+ORD-104392,2,1,1,1,1,2,2,completed | pending
+ORD-104425,2,1,1,1,1,2,2,completed | pending
+ORD-104443,2,1,1,1,1,2,2,completed | pending
+ORD-104451,2,1,1,1,1,2,2,completed | pending
+ORD-104456,2,1,1,1,1,2,2,completed | pending
+ORD-104471,2,1,1,1,1,2,2,completed | pending
+ORD-104539,2,1,1,1,1,2,2,completed | pending
+ORD-104549,2,1,1,1,1,2,2,completed | pending
+ORD-104565,2,1,1,1,1,1,1,cancelled
+ORD-104585,2,1,1,1,1,2,2,completed | pending
+ORD-104594,2,1,1,1,1,2,2,completed | pending
+ORD-104598,2,1,1,1,1,2,2,completed | pending
+ORD-104602,2,1,1,1,1,2,2,completed | pending
+ORD-104639,2,1,1,1,1,2,2,completed | pending
+ORD-104657,2,1,1,1,1,2,2,completed | pending
+ORD-104668,2,1,1,1,1,1,1,completed
+ORD-104669,2,1,1,1,1,2,2,completed | pending
+ORD-104680,2,1,1,1,1,1,1,cancelled
+ORD-104686,2,1,1,1,1,2,2,completed | pending
+ORD-104690,2,1,1,1,1,2,2,completed | pending
+ORD-104719,2,1,1,1,1,2,2,completed | pending
+ORD-104741,2,1,1,1,1,2,2,cancelled | pending
+ORD-104742,2,1,1,1,1,2,2,completed | pending
+ORD-104748,2,1,1,1,1,2,2,completed | pending
+ORD-104765,2,1,1,1,1,2,2,completed | pending
+ORD-104779,2,1,1,1,1,2,2,completed | pending
+ORD-104794,2,1,1,1,1,2,2,cancelled | pending
+ORD-104835,2,1,1,1,1,2,2,completed | pending
+ORD-104845,2,1,1,1,1,2,2,completed | pending
+ORD-104891,2,1,1,1,1,2,2,cancelled | pending
+ORD-104901,2,1,1,1,1,2,2,completed | pending
+ORD-104929,2,1,1,1,1,2,2,completed | pending
+ORD-104933,2,1,1,1,1,2,2,completed | pending
+ORD-104947,2,1,1,1,1,2,2,completed | pending
+ORD-104961,2,1,1,1,1,2,2,completed | pending
+ORD-104984,2,1,1,1,1,1,1,completed
+ORD-104996,2,1,1,1,1,1,1,completed
+ORD-105026,2,1,1,1,1,2,2,cancelled | pending
+ORD-105037,2,1,1,1,1,2,2,completed | pending
+ORD-105055,2,1,1,1,1,2,2,completed | pending
+ORD-105058,2,1,1,1,1,1,1,completed
+ORD-105086,2,1,1,1,1,2,2,completed | pending
+ORD-105096,2,1,1,1,1,1,1,completed
+ORD-105098,2,1,1,1,1,1,1,completed
+ORD-105101,2,1,1,1,1,2,2,completed | pending
+ORD-105103,2,1,1,1,1,2,2,completed | pending
+ORD-105129,2,1,1,1,1,1,1,completed
+ORD-105136,2,1,1,1,1,1,1,completed
+ORD-105156,2,1,1,1,1,1,1,completed
+ORD-105174,2,1,1,1,1,2,2,completed | pending
+ORD-105192,2,1,1,1,1,2,2,completed | pending
+ORD-105198,2,1,1,1,1,2,2,completed | pending
+ORD-105236,2,1,1,1,1,2,2,completed | pending
+ORD-105254,2,1,1,1,1,1,1,completed
+ORD-105292,2,1,1,1,1,2,2,completed | pending
+ORD-105310,2,1,1,1,1,1,1,completed
+ORD-105328,2,1,1,1,1,2,2,cancelled | pending
+ORD-105355,2,1,1,1,1,2,2,completed | pending
+ORD-105367,2,1,1,1,1,2,2,completed | pending
+ORD-105371,2,1,1,1,1,2,2,completed | pending
+ORD-105398,2,1,1,1,1,2,2,completed | pending
+ORD-105404,2,1,1,1,1,2,2,completed | pending
+ORD-105417,2,1,1,1,1,2,2,completed | pending
+ORD-105431,2,1,1,1,1,2,2,completed | pending
+ORD-105438,2,1,1,1,1,1,1,completed
+ORD-105442,2,1,1,1,1,1,1,completed
+ORD-105445,2,1,1,1,1,2,2,completed | pending
+ORD-105461,2,1,1,1,1,2,2,completed | pending
+ORD-105495,2,1,1,1,1,2,2,completed | pending
+ORD-105500,2,1,1,1,1,2,2,completed | pending
+ORD-105502,2,1,1,1,1,2,2,completed | pending
+ORD-105519,2,1,1,1,1,2,2,completed | pending
+ORD-105520,2,1,1,1,1,2,2,completed | pending
+ORD-105530,2,1,1,1,1,2,2,completed | pending
+ORD-105534,2,1,1,1,1,2,2,completed | pending
+ORD-105543,2,1,1,1,1,2,2,cancelled | pending
+ORD-105558,2,1,1,1,1,1,1,completed
+ORD-105559,2,1,1,1,1,1,1,completed
+ORD-105567,2,1,1,1,1,2,2,completed | pending
+ORD-105598,2,1,1,1,1,2,2,completed | pending
+ORD-105603,2,1,1,1,1,1,1,cancelled
+ORD-105624,2,1,1,1,1,2,2,completed | pending
+ORD-105626,2,1,1,1,1,2,2,completed | pending
+ORD-105629,2,1,1,1,1,2,2,completed | pending
+ORD-105635,2,1,1,1,1,2,2,completed | pending
+ORD-105636,2,1,1,1,1,2,2,completed | pending
+ORD-105660,2,1,1,1,1,2,2,completed | pending
+ORD-105723,2,1,1,1,1,2,2,cancelled | pending
+ORD-105732,2,1,1,1,1,2,2,completed | pending
+ORD-105740,2,1,1,1,1,1,1,completed
+ORD-105747,2,1,1,1,1,1,1,completed
+ORD-105764,2,1,1,1,1,2,2,completed | pending
+ORD-105784,2,1,1,1,1,2,2,completed | pending
+ORD-105830,2,1,1,1,1,2,2,completed | pending
+ORD-105843,2,1,1,1,1,1,1,completed
+ORD-105844,2,1,1,1,1,2,2,completed | pending
+ORD-105847,2,1,1,1,1,1,1,completed
+ORD-105866,2,1,1,1,1,2,2,completed | pending
+ORD-105878,2,1,1,1,1,2,2,completed | pending
+ORD-105907,2,1,1,1,1,2,2,completed | pending
+ORD-105913,2,1,1,1,1,2,2,completed | pending
+ORD-105933,2,1,1,1,1,1,1,completed
+ORD-105939,2,1,1,1,1,2,2,completed | pending
+ORD-105963,2,1,1,1,1,2,2,completed | pending
+ORD-106008,2,1,1,1,1,1,1,completed
+ORD-106033,2,1,1,1,1,1,1,completed
+ORD-106039,2,1,1,1,1,1,1,completed
+ORD-106043,2,1,1,1,1,2,2,completed | pending
+ORD-106044,2,1,1,1,1,2,2,completed | pending
+ORD-106054,2,1,1,1,1,2,2,completed | pending
+ORD-106059,2,1,1,1,1,2,2,completed | pending
+ORD-106073,2,1,1,1,1,2,2,completed | pending
+ORD-106077,2,1,1,1,1,1,1,completed
+ORD-106083,2,1,1,1,1,2,2,completed | pending
+ORD-106085,2,1,1,1,1,2,2,completed | pending
+ORD-106162,2,1,1,1,1,1,1,completed
+ORD-106169,2,1,1,1,1,2,2,completed | pending
+ORD-106201,2,1,1,1,1,2,2,completed | pending
+ORD-106203,2,1,1,1,1,2,2,completed | pending
+ORD-106204,2,1,1,1,1,2,2,completed | pending
+ORD-106236,2,1,1,1,1,2,2,completed | pending
+ORD-106257,2,1,1,1,1,2,2,completed | pending
+ORD-106275,2,1,1,1,1,2,2,completed | pending
+ORD-106302,2,1,1,1,1,2,2,completed | pending
+ORD-106327,2,1,1,1,1,2,2,completed | pending
+ORD-106328,2,1,1,1,1,2,2,completed | pending
+ORD-106344,2,1,1,1,1,2,2,completed | pending
+ORD-106348,2,1,1,1,1,1,1,completed
+ORD-106349,2,1,1,1,1,1,1,completed
+ORD-106386,2,1,1,1,1,1,1,completed
+ORD-106389,2,1,1,1,1,2,2,completed | pending
+ORD-106434,2,1,1,1,1,2,2,completed | pending
+ORD-106447,2,1,1,1,1,2,2,completed | pending
+ORD-106462,2,1,1,1,1,2,2,completed | pending
+ORD-106474,2,1,1,1,1,2,2,completed | pending
+ORD-106479,2,1,1,1,1,2,2,completed | pending
+ORD-106480,2,1,1,1,1,2,2,completed | pending
+ORD-106501,2,1,1,1,1,1,1,completed
+ORD-106513,2,1,1,1,1,2,2,completed | pending
+ORD-106528,2,1,1,1,1,2,2,completed | pending
+ORD-106561,2,1,1,1,1,2,2,completed | pending
+ORD-106593,2,1,1,1,1,2,2,completed | pending
+ORD-106618,2,1,1,1,1,2,2,completed | pending
+ORD-106626,2,1,1,1,1,2,2,completed | pending
+ORD-106630,2,1,1,1,1,2,2,completed | pending
+ORD-106632,2,1,1,1,1,2,2,completed | pending
+ORD-106659,2,1,1,1,1,2,2,completed | pending
+ORD-106668,2,1,1,1,1,2,2,completed | pending
+ORD-106677,2,1,1,1,1,2,2,completed | pending
+ORD-106705,2,1,1,1,1,1,1,completed
+ORD-106731,2,1,1,1,1,1,1,completed
+ORD-106734,2,1,1,1,1,2,2,completed | pending
+ORD-106750,2,1,1,1,1,2,2,completed | pending
+ORD-106761,2,1,1,1,1,1,1,completed
+ORD-106764,2,1,1,1,1,2,2,completed | pending
+ORD-106772,2,1,1,1,1,2,2,completed | pending
+ORD-106773,2,1,1,1,1,2,2,completed | pending
+ORD-106793,2,1,1,1,1,2,2,completed | pending
+ORD-106805,2,1,1,1,1,2,2,completed | pending
+ORD-106815,2,1,1,1,1,1,1,completed
+ORD-106846,2,1,1,1,1,2,2,completed | pending
+ORD-106961,2,1,1,1,1,2,2,completed | pending
+ORD-106972,2,1,1,1,1,2,2,completed | pending
+ORD-106981,2,1,1,1,1,2,2,completed | pending
+ORD-106986,2,1,1,1,1,2,2,completed | pending
+ORD-106998,2,1,1,1,1,2,2,completed | pending
+ORD-107007,2,1,1,1,1,2,2,completed | pending
+ORD-107019,2,1,1,1,1,2,2,completed | pending
+ORD-107032,2,1,1,1,1,2,2,cancelled | pending
+ORD-107038,2,1,1,1,1,2,2,completed | pending
+ORD-107046,2,1,1,1,1,2,2,completed | pending
+ORD-107053,2,1,1,1,1,2,2,completed | pending
+ORD-107073,2,1,1,1,1,2,2,completed | pending
+ORD-107083,2,1,1,1,1,2,2,completed | pending
+ORD-107138,2,1,1,1,1,2,2,completed | pending
+ORD-107141,2,1,1,1,1,2,2,completed | pending
+ORD-107186,2,1,1,1,1,2,2,completed | pending
+ORD-107200,2,1,1,1,1,2,2,completed | pending
+ORD-107227,2,1,1,1,1,2,2,completed | pending
+ORD-107232,2,1,1,1,1,1,1,completed
+ORD-107243,2,1,1,1,1,1,1,completed
+ORD-107252,2,1,1,1,1,2,2,completed | pending
+ORD-107270,2,1,1,1,1,2,2,completed | pending
+ORD-107300,2,1,1,1,1,1,1,completed
+ORD-107322,2,1,1,1,1,1,1,completed
+ORD-107326,2,1,1,1,1,1,1,completed
+ORD-107357,2,1,1,1,1,2,2,completed | pending
+ORD-107379,2,1,1,1,1,2,2,cancelled | pending
+ORD-107382,2,1,1,1,1,2,2,completed | pending
+ORD-107394,2,1,1,1,1,1,1,completed
+ORD-107408,2,1,1,1,1,2,2,completed | pending
+ORD-107431,2,1,1,1,1,2,2,completed | pending
+ORD-107464,2,1,1,1,1,2,2,completed | pending
+ORD-107466,2,1,1,1,1,1,1,completed
+ORD-107519,2,1,1,1,1,2,2,completed | pending
+ORD-107524,2,1,1,1,1,2,2,completed | pending
+ORD-107541,2,1,1,1,1,2,2,completed | pending
+ORD-107568,2,1,1,1,1,2,2,completed | pending
+ORD-107582,2,1,1,1,1,2,2,completed | pending
+ORD-107583,2,1,1,1,1,2,2,cancelled | pending
+ORD-107626,2,1,1,1,1,1,1,completed
+ORD-107636,2,1,1,1,1,2,2,completed | pending
+ORD-107657,2,1,1,1,1,2,2,completed | pending
+ORD-107671,2,1,1,1,1,2,2,completed | pending
+ORD-107699,2,1,1,1,1,2,2,cancelled | pending
+ORD-107705,2,1,1,1,1,2,2,cancelled | pending
+ORD-107712,2,1,1,1,1,2,2,completed | pending
+ORD-107722,2,1,1,1,1,2,2,completed | pending
+ORD-107724,2,1,1,1,1,2,2,completed | pending
+ORD-107728,2,1,1,1,1,2,2,completed | pending
+ORD-107731,2,1,1,1,1,2,2,completed | pending
+ORD-107742,2,1,1,1,1,2,2,completed | pending
+ORD-107753,2,1,1,1,1,2,2,completed | pending
+ORD-107754,2,1,1,1,1,2,2,completed | pending
+ORD-107758,2,1,1,1,1,2,2,completed | pending
+ORD-107763,2,1,1,1,1,2,2,completed | pending
+ORD-107770,2,1,1,1,1,2,2,cancelled | pending
+ORD-107791,2,1,1,1,1,2,2,completed | pending
+ORD-107794,2,1,1,1,1,2,2,completed | pending
+ORD-107820,2,1,1,1,1,2,2,completed | pending
+ORD-107848,2,1,1,1,1,2,2,completed | pending
+ORD-107884,2,1,1,1,1,2,2,completed | pending
+ORD-107897,2,1,1,1,1,1,1,completed
+ORD-107906,2,1,1,1,1,2,2,completed | pending
+ORD-107916,2,1,1,1,1,2,2,completed | pending
+ORD-107918,2,1,1,1,1,2,2,completed | pending
+ORD-107920,2,1,1,1,1,2,2,completed | pending
+ORD-107970,2,1,1,1,1,2,2,completed | pending
+ORD-108001,2,1,1,1,1,1,1,completed
+ORD-108011,2,1,1,1,1,2,2,completed | pending
+ORD-108012,2,1,1,1,1,2,2,completed | pending
+ORD-108023,2,1,1,1,1,2,2,completed | pending
+ORD-108094,2,1,1,1,1,2,2,completed | pending
+ORD-108104,2,1,1,1,1,2,2,completed | pending
+ORD-108105,2,1,1,1,1,1,1,completed
+ORD-108135,2,1,1,1,1,2,2,completed | pending
+ORD-108155,2,1,1,1,1,2,2,cancelled | pending
+ORD-108176,2,1,1,1,1,2,2,completed | pending
+ORD-108180,2,1,1,1,1,2,2,completed | pending
+ORD-108186,2,1,1,1,1,1,1,completed
+ORD-108189,2,1,1,1,1,1,1,completed
+ORD-108207,2,1,1,1,1,2,2,completed | pending
+ORD-108218,2,1,1,1,1,2,2,completed | pending
+ORD-108256,2,1,1,1,1,2,2,completed | pending
+ORD-108266,2,1,1,1,1,2,2,completed | pending
+ORD-108286,2,1,1,1,1,2,2,completed | pending
+ORD-108340,2,1,1,1,1,2,2,completed | pending
+ORD-108363,2,1,1,1,1,2,2,cancelled | pending
+ORD-108365,2,1,1,1,1,2,2,completed | pending
+ORD-108396,2,1,1,1,1,2,2,cancelled | pending
+ORD-108400,2,1,1,1,1,1,1,completed
+ORD-108448,2,1,1,1,0,2,2,completed | pending
+ORD-108455,2,1,1,1,1,2,2,completed | pending
+ORD-108461,2,1,1,1,1,2,2,completed | pending
+ORD-108468,2,1,1,1,1,2,2,cancelled | pending
+ORD-108483,2,1,1,1,1,2,2,completed | pending
+ORD-108503,2,1,1,1,1,2,2,completed | pending
+ORD-108513,2,1,1,1,1,2,2,completed | pending
+ORD-108526,2,1,1,1,1,2,2,completed | pending
+ORD-108533,2,1,1,1,1,2,2,completed | pending
+ORD-108534,2,1,1,1,1,2,2,completed | pending
+ORD-108551,2,1,1,1,1,1,1,completed
+ORD-108574,2,1,1,1,1,2,2,completed | pending
+ORD-108606,2,1,1,1,1,2,2,completed | pending
+ORD-108635,2,1,1,1,1,2,2,completed | pending
+ORD-108675,2,1,1,1,1,2,2,completed | pending
+ORD-108693,2,1,1,1,1,1,1,completed
+ORD-108723,2,1,1,1,1,2,2,completed | pending
+ORD-108728,2,1,1,1,1,1,1,completed
+ORD-108761,2,1,1,1,1,2,2,completed | pending
+ORD-108774,2,1,1,1,1,2,2,completed | pending
+ORD-108787,2,1,1,1,1,2,2,completed | pending
+ORD-108807,3,1,1,1,1,2,2,completed | pending
+ORD-108818,2,1,1,1,1,2,2,cancelled | pending
+ORD-108820,2,1,1,1,1,2,2,completed | pending
+ORD-108825,2,1,1,1,1,1,1,completed
+ORD-108828,2,1,1,1,1,2,2,completed | pending
+ORD-108857,2,1,1,1,1,2,2,completed | pending
+ORD-108872,2,1,1,1,1,2,2,completed | pending
+ORD-108886,2,1,1,1,1,1,1,completed
+ORD-108891,2,1,1,1,1,2,2,completed | pending
+ORD-108929,2,1,1,1,1,2,2,completed | pending
+ORD-108930,2,1,1,1,1,2,2,completed | pending
+ORD-108954,2,1,1,1,1,2,2,completed | pending
+ORD-108957,2,1,1,1,1,2,2,cancelled | pending
+ORD-108961,2,1,1,1,1,2,2,completed | pending
+ORD-108996,2,1,1,1,1,2,2,cancelled | pending
+ORD-109003,2,1,1,1,1,2,2,completed | pending
+ORD-109019,2,1,1,1,1,2,2,completed | pending
+ORD-109020,2,1,1,1,1,2,2,completed | pending
+ORD-109032,2,1,1,1,1,1,1,cancelled
+ORD-109049,2,1,1,1,1,2,2,completed | pending
+ORD-109061,2,1,1,1,1,2,2,completed | pending
+ORD-109063,2,1,1,1,1,2,2,completed | pending
+ORD-109066,2,1,1,1,1,2,2,completed | pending
+ORD-109086,2,1,1,1,1,2,2,completed | pending
+ORD-109087,2,1,1,1,1,2,2,completed | pending
+ORD-109094,2,1,1,1,1,1,1,completed
+ORD-109101,2,1,1,1,1,2,2,completed | pending
+ORD-109123,2,1,1,1,1,2,2,completed | pending
+ORD-109124,2,1,1,1,1,1,1,completed
+ORD-109149,2,1,1,1,1,2,2,completed | pending
+ORD-109171,2,1,1,1,1,2,2,completed | pending
+ORD-109227,2,1,1,1,1,2,2,completed | pending
+ORD-109228,2,1,1,1,1,2,2,completed | pending
+ORD-109236,2,1,1,1,1,2,2,completed | pending
+ORD-109244,2,1,1,1,1,2,2,completed | pending
+ORD-109260,2,1,1,1,1,2,2,completed | pending
+ORD-109273,2,1,1,1,1,2,2,completed | pending
+ORD-109306,2,1,1,1,1,2,2,completed | pending
+ORD-109318,2,1,1,1,1,2,2,completed | pending
+ORD-109348,2,1,1,1,1,2,2,cancelled | pending
+ORD-109349,2,1,1,1,1,2,2,completed | pending
+ORD-109354,2,1,1,1,1,2,2,completed | pending
+ORD-109360,2,1,1,1,1,2,2,completed | pending
+ORD-109361,2,1,1,1,1,2,2,completed | pending
+ORD-109381,2,1,1,1,1,2,2,cancelled | pending
+ORD-109387,2,1,1,1,1,1,1,completed
+ORD-109416,2,1,1,1,1,1,1,completed
+ORD-109438,2,1,1,1,1,2,2,completed | pending
+ORD-109516,2,1,1,1,1,2,2,completed | pending
+ORD-109536,2,1,1,1,1,2,2,completed | pending
+ORD-109553,2,1,1,1,1,2,2,completed | pending
+ORD-109584,2,1,1,1,1,2,2,completed | pending
+ORD-109587,2,1,1,1,1,2,2,completed | pending
+ORD-109594,2,1,1,1,1,2,2,completed | pending
+ORD-109597,2,1,1,1,1,2,2,completed | pending
+ORD-109599,2,1,1,1,1,2,2,completed | pending
+ORD-109617,2,1,1,1,1,2,2,completed | pending
+ORD-109659,2,1,1,1,1,2,2,completed | pending
+ORD-109664,2,1,1,1,1,2,2,completed | pending
+ORD-109677,2,1,1,1,1,2,2,completed | pending
+ORD-109682,2,1,1,1,1,1,1,completed
+ORD-109716,2,1,1,1,1,2,2,completed | pending
+ORD-109790,2,1,1,1,1,2,2,completed | pending
+ORD-109815,2,1,1,1,1,1,1,completed
+ORD-109826,2,1,1,1,1,2,2,completed | pending
+ORD-109860,2,1,1,1,1,2,2,completed | pending
+ORD-109863,2,1,1,1,1,2,2,completed | pending
+ORD-109883,2,1,1,1,1,2,2,cancelled | pending
+ORD-109899,2,1,1,1,1,2,2,completed | pending
+ORD-109982,2,1,1,1,1,2,2,completed | pending
+ORD-109987,2,1,1,1,1,2,2,completed | pending
+ORD-109993,2,1,1,1,1,2,2,completed | pending
+ORD-110005,2,1,1,1,1,2,2,completed | pending
+ORD-110012,2,1,1,1,1,2,2,completed | pending
+ORD-110026,2,1,1,1,1,1,1,completed
+ORD-110033,2,1,1,1,1,2,2,completed | pending
+ORD-110041,2,1,1,1,1,2,2,completed | pending
+ORD-110054,2,1,1,1,1,2,2,completed | pending
+ORD-110064,2,1,1,1,1,2,2,completed | pending
+ORD-110080,2,1,1,1,1,2,2,completed | pending
+ORD-110086,2,1,1,1,1,2,2,completed | pending
+ORD-110093,2,1,1,1,1,2,2,completed | pending
+ORD-110104,2,1,1,1,1,1,1,completed
+ORD-110125,2,1,1,1,1,2,2,completed | pending
+ORD-110151,2,1,1,1,1,2,2,completed | pending
+ORD-110152,2,1,1,1,1,2,2,completed | pending
+ORD-110153,2,1,1,1,1,2,2,completed | pending
+ORD-110175,2,1,1,1,1,1,1,completed
+ORD-110208,2,1,1,1,1,2,2,completed | pending
+ORD-110219,2,1,1,1,1,2,2,completed | pending
+ORD-110221,2,1,1,1,1,1,1,completed
+ORD-110255,2,1,1,1,1,2,2,completed | pending
+ORD-110279,2,1,1,1,1,1,1,completed
+ORD-110293,2,1,1,1,1,2,2,completed | pending
+ORD-110296,2,1,1,1,1,2,2,completed | pending
+ORD-110302,2,1,1,1,1,2,2,completed | pending
+ORD-110336,2,1,1,1,1,2,2,completed | pending
+ORD-110352,2,1,1,1,1,2,2,completed | pending
+ORD-110354,2,1,1,1,1,2,2,completed | pending
+ORD-110364,2,1,1,1,1,2,2,completed | pending
+ORD-110376,2,1,1,1,1,2,2,completed | pending
+ORD-110377,2,1,1,1,1,2,2,completed | pending
+ORD-110402,2,1,1,1,1,2,2,completed | pending
+ORD-110415,2,1,1,1,1,2,2,completed | pending
+ORD-110433,2,1,1,1,1,2,2,completed | pending
+ORD-110441,2,1,1,1,1,1,1,completed
+ORD-110444,2,1,1,1,1,2,2,completed | pending
+ORD-110454,2,1,1,1,1,2,2,completed | pending
+ORD-110467,2,1,1,1,1,2,2,completed | pending
+ORD-110474,2,1,1,1,1,2,2,completed | pending
+ORD-110493,2,1,1,1,1,2,2,completed | pending
+ORD-110520,2,1,1,1,1,2,2,completed | pending
+ORD-110528,2,1,1,1,1,2,2,completed | pending
+ORD-110537,2,1,1,1,1,2,2,completed | pending
+ORD-110541,2,1,1,1,1,2,2,completed | pending
+ORD-110542,2,1,1,1,1,2,2,completed | pending
+ORD-110555,2,1,1,1,1,2,2,completed | pending
+ORD-110563,2,1,1,1,1,2,2,completed | pending
+ORD-110569,2,1,1,1,1,2,2,completed | pending
+ORD-110579,2,1,1,1,1,2,2,completed | pending
+ORD-110581,2,1,1,1,1,2,2,completed | pending
+ORD-110602,2,1,1,1,1,2,2,completed | pending
+ORD-110622,2,1,1,1,1,2,2,completed | pending
+ORD-110653,2,1,1,1,1,2,2,completed | pending
+ORD-110658,2,1,1,1,1,2,2,completed | pending
+ORD-110671,2,1,1,1,1,2,2,completed | pending
+ORD-110687,2,1,1,1,1,2,2,completed | pending
+ORD-110689,2,1,1,1,1,2,2,completed | pending
+ORD-110708,2,1,1,1,1,2,2,completed | pending
+ORD-110716,2,1,1,1,1,2,2,completed | pending
+ORD-110729,2,1,1,1,1,2,2,completed | pending
+ORD-110736,2,1,1,1,1,2,2,completed | pending
+ORD-110772,2,1,1,1,1,1,1,cancelled
+ORD-110775,2,1,1,1,1,2,2,cancelled | pending
+ORD-110776,2,1,1,1,1,2,2,cancelled | pending
+ORD-110802,2,1,1,1,1,1,1,completed
+ORD-110803,2,1,1,1,1,2,2,completed | pending
+ORD-110822,2,1,1,1,1,2,2,completed | pending
+ORD-110824,2,1,1,1,1,2,2,completed | pending
+ORD-110835,2,1,1,1,1,2,2,completed | pending
+ORD-110840,2,1,1,1,1,2,2,completed | pending
+ORD-110851,2,1,1,1,1,2,2,completed | pending
+ORD-110852,2,1,1,1,1,2,2,completed | pending
+ORD-110866,2,1,1,1,1,2,2,completed | pending
+ORD-110867,2,1,1,1,1,2,2,cancelled | pending
+ORD-110879,2,1,1,1,1,2,2,completed | pending
+ORD-110898,2,1,1,1,1,2,2,completed | pending
+ORD-110905,2,1,1,1,1,2,2,completed | pending
+ORD-110907,2,1,1,1,1,2,2,cancelled | pending
+ORD-110911,2,1,1,1,1,2,2,completed | pending
+ORD-110924,2,1,1,1,1,2,2,completed | pending
+ORD-110978,2,1,1,1,1,2,2,completed | pending
+ORD-110982,2,1,1,1,1,2,2,cancelled | pending
+ORD-110998,2,1,1,1,1,1,1,completed
+ORD-111019,2,1,1,1,1,2,2,completed | pending
+ORD-111031,2,1,1,1,1,2,2,completed | pending
+ORD-111077,2,1,1,1,1,2,2,completed | pending
+ORD-111078,2,1,1,1,1,2,2,completed | pending
+ORD-111081,2,1,1,1,1,2,2,completed | pending
+ORD-111082,2,1,1,1,1,1,1,completed
+ORD-111084,2,1,1,1,1,2,2,completed | pending
+ORD-111128,2,1,1,1,1,2,2,completed | pending
+ORD-111159,2,1,1,1,1,2,2,completed | pending
+ORD-111165,2,1,1,1,1,2,2,completed | pending
+ORD-111170,2,1,1,1,1,2,2,completed | pending
+ORD-111190,2,1,1,1,1,2,2,completed | pending
+ORD-111194,2,1,1,1,1,1,1,completed
+ORD-111226,2,1,1,1,1,2,2,completed | pending
+ORD-111253,3,1,1,1,1,2,2,completed | pending
+ORD-111274,2,1,1,1,1,2,2,completed | pending
+ORD-111278,2,1,1,1,1,2,2,completed | pending
+ORD-111308,2,1,1,1,1,1,1,completed
+ORD-111321,2,1,1,1,1,1,1,completed
+ORD-111333,2,1,1,1,1,2,2,completed | pending
+ORD-111335,2,1,1,1,1,2,2,completed | pending
+ORD-111362,2,1,1,1,1,2,2,cancelled | pending
+ORD-111370,2,1,1,1,1,2,2,completed | pending
+ORD-111377,2,1,1,1,1,2,2,completed | pending
+ORD-111394,2,1,1,1,1,2,2,completed | pending
+ORD-111402,2,1,1,1,1,1,1,completed
+ORD-111407,2,1,1,1,1,2,2,completed | pending
+ORD-111416,2,1,1,1,1,2,2,completed | pending
+ORD-111448,2,1,1,1,1,2,2,completed | pending
+ORD-111458,2,1,1,1,1,2,2,cancelled | pending
+ORD-111470,2,1,1,1,1,2,2,completed | pending
+ORD-111491,2,1,1,1,1,2,2,completed | pending
+ORD-111511,2,1,1,1,1,2,2,cancelled | pending
+ORD-111531,2,1,1,1,1,2,2,completed | pending
+ORD-111537,2,1,1,1,1,2,2,completed | pending
+ORD-111569,2,1,1,1,1,2,2,completed | pending
+ORD-111584,2,1,1,1,1,2,2,completed | pending
+ORD-111612,2,1,1,1,1,2,2,completed | pending
+ORD-111614,2,1,1,1,1,2,2,completed | pending
+ORD-111697,2,1,1,1,1,2,2,completed | pending
+ORD-111702,2,1,1,1,1,2,2,cancelled | pending
+ORD-111725,2,1,1,1,1,2,2,completed | pending
+ORD-111737,2,1,1,1,1,2,2,completed | pending
+ORD-111766,2,1,1,1,1,2,2,cancelled | pending
+ORD-111779,2,1,1,1,1,2,2,cancelled | pending
+ORD-111822,2,1,1,1,1,2,2,completed | pending
+ORD-111845,2,1,1,1,1,2,2,completed | pending
+ORD-111876,2,1,1,1,1,2,2,completed | pending
+ORD-111904,2,1,1,1,1,2,2,completed | pending
+ORD-111913,2,1,1,1,1,2,2,completed | pending
+ORD-111922,2,1,1,1,1,2,2,completed | pending
+ORD-111924,2,1,1,1,1,2,2,completed | pending
+ORD-111931,2,1,1,1,1,2,2,completed | pending
+ORD-111946,2,1,1,1,1,2,2,cancelled | pending
+ORD-111951,2,1,1,1,1,2,2,completed | pending
+ORD-111971,2,1,1,1,1,2,2,cancelled | pending
+ORD-112002,2,1,1,1,1,2,2,completed | pending
+ORD-112034,2,1,1,1,1,2,2,completed | pending
+ORD-112039,2,1,1,1,1,2,2,completed | pending
+ORD-112040,2,1,1,1,1,2,2,completed | pending
+ORD-112041,2,1,1,1,1,2,2,completed | pending
+ORD-112043,2,1,1,1,1,2,2,completed | pending
+ORD-112065,2,1,1,1,1,2,2,completed | pending
+ORD-112073,2,1,1,1,1,2,2,completed | pending
+ORD-112139,2,1,1,1,1,2,2,completed | pending
+ORD-112141,2,1,1,1,1,1,1,completed
+ORD-112178,2,1,1,1,1,2,2,completed | pending
+ORD-112184,2,1,1,1,1,1,1,completed
+ORD-112198,2,1,1,1,1,2,2,completed | pending
+ORD-112199,2,1,1,1,1,2,2,completed | pending
+ORD-112207,2,1,1,1,1,2,2,completed | pending
+ORD-112211,2,1,1,1,1,2,2,completed | pending
+ORD-112212,2,1,1,1,1,2,2,completed | pending
+ORD-112245,2,1,1,1,1,2,2,completed | pending
+ORD-112287,2,1,1,1,1,2,2,completed | pending
+ORD-112295,2,1,1,1,1,2,2,completed | pending

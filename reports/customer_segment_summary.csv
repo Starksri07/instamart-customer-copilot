@@ -1,0 +1,6 @@
+segment,customers,avg_recency_days,avg_frequency,avg_monetary
+High Value,414,6.81,18.21,3572.57
+Regular,274,35.07,7.91,4544.85
+Needs Attention,269,28.6,3.32,647.6
+Low Engagement,216,95.42,1.84,324.45
+No Completed Orders,27,,0.0,0.0

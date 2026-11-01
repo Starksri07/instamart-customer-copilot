@@ -1,0 +1,5 @@
+table,rows_after_cleaning,duplicate_rows_removed,missing_cells
+customers,1200,0,91
+products,40,0,0
+orders,12965,119,2577
+tickets,164,0,12

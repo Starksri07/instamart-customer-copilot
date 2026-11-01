@@ -1,0 +1,5 @@
+dataset,input_rows,output_rows,notes
+customers,1200,1200,67 rows had missing/invalid age; invalid values set to missing
+products,40,40,0 rows had invalid prices; inspect audit file
+orders,13084,12847,120 invalid amounts; 117 exact duplicates removed; repeated IDs preserved for investigation
+tickets,164,164,Exact duplicate rows removed

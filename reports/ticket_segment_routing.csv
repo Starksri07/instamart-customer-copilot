@@ -1,0 +1,5 @@
+predicted_category,assigned_team,ticket_count
+billing,BILLING_SUPPORT,40
+delivery,DELIVERY_SUPPORT,39
+fraud,URGENT_FRAUD_TEAM,53
+technical,TECHNICAL_SUPPORT,32

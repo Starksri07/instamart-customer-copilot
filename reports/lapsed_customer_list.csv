@@ -1,0 +1,240 @@
+customer_id,city,last_order_date,frequency,monetary,recency_days,segment,lapse_status
+C0692,BENGALURU,2025-04-03 08:37:41,1,2598.0,181.0,Low Engagement,Potentially Lapsed
+C0734,BENGALURU,2025-04-05 18:01:23,1,2598.0,179.0,Low Engagement,Potentially Lapsed
+C0473,PUNE,2025-04-05 21:55:29,1,45.0,179.0,Low Engagement,Potentially Lapsed
+C0955,CHENNAI,2025-04-07 07:45:44,1,272.0,177.0,Low Engagement,Potentially Lapsed
+C0418,PUNE,2025-04-09 22:50:15,1,399.0,175.0,Low Engagement,Potentially Lapsed
+C0266,BENGALURU,2025-04-09 21:38:15,1,15.0,175.0,Low Engagement,Potentially Lapsed
+C0132,HYDERABAD,2025-04-10 15:28:38,1,60.0,174.0,Low Engagement,Potentially Lapsed
+C0982,CHENNAI,2025-04-11 09:16:05,1,18.0,173.0,Low Engagement,Potentially Lapsed
+C0851,CHENNAI,2025-04-15 07:30:50,1,129.0,169.0,Low Engagement,Potentially Lapsed
+C0277,PUNE,2025-04-17 20:46:36,1,54.0,167.0,Low Engagement,Potentially Lapsed
+C0958,MUMBAI,2025-04-19 10:11:34,1,416.5,165.0,Low Engagement,Potentially Lapsed
+C0422,MUMBAI,2025-04-21 12:53:10,2,682.0,163.0,Low Engagement,Potentially Lapsed
+C0436,HYDERABAD,2025-04-22 20:47:37,3,2295.25,162.0,Regular,Potentially Lapsed
+C0055,HYDERABAD,2025-04-22 10:05:05,1,112.0,162.0,Low Engagement,Potentially Lapsed
+C0768,MUMBAI,2025-04-22 18:38:08,1,40.0,162.0,Low Engagement,Potentially Lapsed
+C0117,HYDERABAD,2025-04-25 17:57:53,1,157.5,159.0,Low Engagement,Potentially Lapsed
+C0723,BENGALURU,2025-04-25 10:58:02,1,135.0,159.0,Low Engagement,Potentially Lapsed
+C0926,PUNE,2025-04-26 14:54:43,1,139.5,158.0,Low Engagement,Potentially Lapsed
+C0274,CHENNAI,2025-04-27 09:08:38,1,2698.2,157.0,Low Engagement,Potentially Lapsed
+C0736,PUNE,2025-04-27 11:18:10,1,50.0,157.0,Low Engagement,Potentially Lapsed
+C0387,CHENNAI,2025-04-28 22:40:39,1,700.0,156.0,Low Engagement,Potentially Lapsed
+C1170,MUMBAI,2025-04-28 21:52:44,3,393.0,156.0,Low Engagement,Potentially Lapsed
+C0333,PUNE,2025-04-29 10:06:56,1,718.2,155.0,Low Engagement,Potentially Lapsed
+C1053,MUMBAI,2025-04-29 12:08:52,1,396.0,155.0,Low Engagement,Potentially Lapsed
+C1089,DELHI,2025-05-04 09:31:38,2,1060.5,150.0,Low Engagement,Potentially Lapsed
+C0448,DELHI,2025-05-05 12:02:37,2,463.5,149.0,Low Engagement,Potentially Lapsed
+C0053,MUMBAI,2025-05-05 13:26:36,2,448.5,149.0,Low Engagement,Potentially Lapsed
+C0069,PUNE,2025-05-05 17:42:47,1,294.0,149.0,Low Engagement,Potentially Lapsed
+C1017,HYDERABAD,2025-05-05 11:06:00,2,188.4,149.0,Low Engagement,Potentially Lapsed
+C0005,BENGALURU,2025-05-06 21:44:20,2,324.0,148.0,Low Engagement,Potentially Lapsed
+C0041,PUNE,2025-05-09 10:59:50,1,285.0,145.0,Low Engagement,Potentially Lapsed
+C0481,CHENNAI,2025-05-09 09:51:00,1,193.5,145.0,Low Engagement,Potentially Lapsed
+C0610,PUNE,2025-05-11 19:43:29,2,4497.0,143.0,Regular,Potentially Lapsed
+C0356,DELHI,2025-05-13 17:47:15,2,538.0,141.0,Low Engagement,Potentially Lapsed
+C0832,PUNE,2025-05-13 11:36:43,1,339.15,141.0,Low Engagement,Potentially Lapsed
+C0458,MUMBAI,2025-05-14 10:54:00,5,892.35,140.0,Low Engagement,Potentially Lapsed
+C0319,BENGALURU,2025-05-16 16:59:01,1,180.0,138.0,Low Engagement,Potentially Lapsed
+C0779,CHENNAI,2025-05-17 09:09:24,3,4504.65,137.0,Regular,Potentially Lapsed
+C0866,MUMBAI,2025-05-17 08:53:15,2,286.8,137.0,Low Engagement,Potentially Lapsed
+C0677,DELHI,2025-05-17 16:55:14,2,244.0,137.0,Low Engagement,Potentially Lapsed
+C0983,DELHI,2025-05-18 19:03:03,4,6344.5,136.0,Regular,Potentially Lapsed
+C1070,HYDERABAD,2025-05-18 20:05:40,2,378.0,136.0,Low Engagement,Potentially Lapsed
+C1065,HYDERABAD,2025-05-18 19:41:28,2,103.0,136.0,Low Engagement,Potentially Lapsed
+C0099,BENGALURU,2025-05-18 21:18:52,1,84.0,136.0,Low Engagement,Potentially Lapsed
+C0988,MUMBAI,2025-05-19 11:58:56,1,396.0,135.0,Low Engagement,Potentially Lapsed
+C0936,PUNE,2025-05-20 14:23:24,1,285.0,134.0,Low Engagement,Potentially Lapsed
+C1097,CHENNAI,2025-05-21 07:33:59,1,379.05,133.0,Low Engagement,Potentially Lapsed
+C0399,MUMBAI,2025-05-24 11:10:06,1,272.0,130.0,Low Engagement,Potentially Lapsed
+C1007,HYDERABAD,2025-05-24 15:40:28,1,40.0,130.0,Low Engagement,Potentially Lapsed
+C0702,PUNE,2025-05-25 19:30:57,3,904.0,129.0,Low Engagement,Potentially Lapsed
+C0998,CHENNAI,2025-05-25 14:23:39,1,58.8,129.0,Low Engagement,Potentially Lapsed
+C0932,BENGALURU,2025-05-26 07:48:20,1,525.0,128.0,Low Engagement,Potentially Lapsed
+C0110,CHENNAI,2025-05-26 17:48:35,2,190.55,128.0,Low Engagement,Potentially Lapsed
+C0013,CHENNAI,2025-05-28 07:25:49,3,726.0,126.0,Low Engagement,Potentially Lapsed
+C0939,DELHI,2025-05-28 07:05:02,3,459.5,126.0,Low Engagement,Potentially Lapsed
+C0858,DELHI,2025-05-29 11:49:27,5,575.1,125.0,Low Engagement,Potentially Lapsed
+C0231,PUNE,2025-05-29 22:25:26,2,466.1,125.0,Low Engagement,Potentially Lapsed
+C0106,DELHI,2025-05-29 17:40:56,1,219.3,125.0,Low Engagement,Potentially Lapsed
+C0710,CHENNAI,2025-05-30 07:58:56,1,47.5,124.0,Low Engagement,Potentially Lapsed
+C0463,HYDERABAD,2025-05-31 13:44:15,1,208.0,123.0,Low Engagement,Potentially Lapsed
+C1075,DELHI,2025-06-01 18:10:41,1,198.0,122.0,Low Engagement,Potentially Lapsed
+C0602,PUNE,2025-06-01 11:40:25,2,164.4,122.0,Low Engagement,Potentially Lapsed
+C0971,PUNE,2025-06-02 07:42:37,2,594.4,121.0,Low Engagement,Potentially Lapsed
+C0744,DELHI,2025-06-02 20:16:51,2,288.75,121.0,Low Engagement,Potentially Lapsed
+C0301,BENGALURU,2025-06-04 21:52:41,2,573.5,119.0,Low Engagement,Potentially Lapsed
+C0691,PUNE,2025-06-04 19:15:47,2,318.0,119.0,Low Engagement,Potentially Lapsed
+C0390,PUNE,2025-06-05 13:27:23,3,604.0,118.0,Low Engagement,Potentially Lapsed
+C0475,HYDERABAD,2025-06-06 09:57:15,1,36.0,117.0,Low Engagement,Potentially Lapsed
+C0276,PUNE,2025-06-07 15:46:18,2,114.0,116.0,Low Engagement,Potentially Lapsed
+C0172,BENGALURU,2025-06-07 08:08:23,1,108.0,116.0,Low Engagement,Potentially Lapsed
+C0528,CHENNAI,2025-06-07 11:47:12,1,28.8,116.0,Low Engagement,Potentially Lapsed
+C0824,PUNE,2025-06-08 12:13:00,2,612.0,115.0,Low Engagement,Potentially Lapsed
+C0047,DELHI,2025-06-08 18:32:24,1,258.0,115.0,Low Engagement,Potentially Lapsed
+C0504,MUMBAI,2025-06-09 19:28:02,2,154.0,114.0,Low Engagement,Potentially Lapsed
+C0484,CHENNAI,2025-06-10 10:23:53,4,662.0,113.0,Low Engagement,Potentially Lapsed
+C0129,BENGALURU,2025-06-10 20:52:30,2,407.4,113.0,Low Engagement,Potentially Lapsed
+C0437,DELHI,2025-06-12 22:24:24,3,813.6,111.0,Low Engagement,Potentially Lapsed
+C0581,HYDERABAD,2025-06-12 22:05:31,2,387.3,111.0,Low Engagement,Potentially Lapsed
+C0468,CHENNAI,2025-06-12 11:29:31,3,180.6,111.0,Low Engagement,Potentially Lapsed
+C1144,PUNE,2025-06-12 20:45:31,1,71.25,111.0,Low Engagement,Potentially Lapsed
+C1054,DELHI,2025-06-12 14:10:03,1,43.2,111.0,Low Engagement,Potentially Lapsed
+C1180,MUMBAI,2025-06-13 16:44:30,1,44.8,110.0,Low Engagement,Potentially Lapsed
+C0177,DELHI,2025-06-14 18:09:11,2,357.0,109.0,Low Engagement,Potentially Lapsed
+C0763,MUMBAI,2025-06-15 09:09:03,4,1563.25,108.0,Regular,Potentially Lapsed
+C0114,PUNE,2025-06-15 16:17:54,3,960.9,108.0,Low Engagement,Potentially Lapsed
+C0174,CHENNAI,2025-06-15 20:50:06,2,483.2,108.0,Low Engagement,Potentially Lapsed
+C0085,DELHI,2025-06-15 12:07:39,3,463.25,108.0,Low Engagement,Potentially Lapsed
+C0967,HYDERABAD,2025-06-15 19:23:37,2,185.1,108.0,Low Engagement,Potentially Lapsed
+C0931,BENGALURU,2025-06-16 08:41:42,1,260.0,107.0,Low Engagement,Potentially Lapsed
+C0810,MUMBAI,2025-06-16 10:23:31,1,48.0,107.0,Low Engagement,Potentially Lapsed
+C0867,PUNE,2025-06-17 08:58:44,3,2794.5,106.0,Regular,Potentially Lapsed
+C1196,PUNE,2025-06-18 17:51:29,3,339.0,105.0,Low Engagement,Potentially Lapsed
+C1035,PUNE,2025-06-19 10:35:42,2,624.0,104.0,Low Engagement,Potentially Lapsed
+C0285,BENGALURU,2025-06-19 16:48:42,3,210.0,104.0,Low Engagement,Potentially Lapsed
+C0861,PUNE,2025-06-19 18:13:59,1,29.0,104.0,Low Engagement,Potentially Lapsed
+C0054,HYDERABAD,2025-06-20 08:27:25,5,1501.35,103.0,Regular,Potentially Lapsed
+C0774,DELHI,2025-06-20 15:24:59,2,174.0,103.0,Low Engagement,Potentially Lapsed
+C0778,PUNE,2025-06-22 16:54:37,5,3335.6,101.0,Regular,Potentially Lapsed
+C0225,HYDERABAD,2025-06-23 21:22:07,3,393.0,100.0,Low Engagement,Potentially Lapsed
+C1183,HYDERABAD,2025-06-24 17:29:21,2,4447.25,99.0,Regular,Potentially Lapsed
+C0608,MUMBAI,2025-06-24 17:13:01,1,280.0,99.0,Low Engagement,Potentially Lapsed
+C0882,CHENNAI,2025-06-25 17:00:29,2,888.0,98.0,Low Engagement,Potentially Lapsed
+C1048,DELHI,2025-06-25 15:43:35,3,446.0,98.0,Low Engagement,Potentially Lapsed
+C0766,CHENNAI,2025-06-26 12:32:16,2,487.65,97.0,Low Engagement,Potentially Lapsed
+C0486,CHENNAI,2025-06-27 20:19:39,2,393.0,96.0,Low Engagement,Potentially Lapsed
+C0450,BENGALURU,2025-06-28 14:30:02,5,4323.15,95.0,Regular,Potentially Lapsed
+C0908,PUNE,2025-06-28 15:42:19,4,1140.15,95.0,Needs Attention,Potentially Lapsed
+C1154,BENGALURU,2025-06-28 16:32:57,3,477.2,95.0,Low Engagement,Potentially Lapsed
+C0991,CHENNAI,2025-06-28 11:15:58,2,148.05,95.0,Low Engagement,Potentially Lapsed
+C1159,HYDERABAD,2025-06-28 07:23:04,1,108.0,95.0,Low Engagement,Potentially Lapsed
+C0902,HYDERABAD,2025-06-28 19:07:10,1,12.0,95.0,Low Engagement,Potentially Lapsed
+C0972,BENGALURU,2025-06-29 12:32:48,6,4427.5,94.0,Regular,Potentially Lapsed
+C0223,PUNE,2025-06-29 07:08:45,2,114.0,94.0,Low Engagement,Potentially Lapsed
+C0023,CHENNAI,2025-06-30 13:26:57,3,616.0,93.0,Low Engagement,Potentially Lapsed
+C0582,PUNE,2025-07-02 11:30:17,3,2775.8,91.0,Regular,Potentially Lapsed
+C0603,DELHI,2025-07-02 18:38:00,2,331.20000000000005,91.0,Low Engagement,Potentially Lapsed
+C0507,MUMBAI,2025-07-02 09:41:34,1,209.0,91.0,Low Engagement,Potentially Lapsed
+C1184,HYDERABAD,2025-07-03 15:45:39,2,143.6,90.0,Low Engagement,Potentially Lapsed
+C0042,MUMBAI,2025-07-03 15:12:32,2,138.6,90.0,Low Engagement,Potentially Lapsed
+C0097,DELHI,2025-07-03 08:52:41,1,132.0,90.0,Low Engagement,Potentially Lapsed
+C0541,PUNE,2025-07-03 14:20:37,1,38.25,90.0,Low Engagement,Potentially Lapsed
+C1009,MUMBAI,2025-07-04 17:32:54,6,6931.4,89.0,Regular,Potentially Lapsed
+C0852,CHENNAI,2025-07-04 11:23:24,4,429.2,89.0,Low Engagement,Potentially Lapsed
+C0796,DELHI,2025-07-04 11:14:06,1,352.0,89.0,Low Engagement,Potentially Lapsed
+C0501,BENGALURU,2025-07-04 12:55:32,1,69.6,89.0,Low Engagement,Potentially Lapsed
+C0152,CHENNAI,2025-07-05 11:23:25,6,4456.549999999999,88.0,Regular,Potentially Lapsed
+C0532,BENGALURU,2025-07-05 18:58:48,1,80.75,88.0,Low Engagement,Potentially Lapsed
+C0453,BENGALURU,2025-07-06 15:30:42,4,2081.25,87.0,Regular,Potentially Lapsed
+C0992,CHENNAI,2025-07-06 09:44:23,3,614.75,87.0,Low Engagement,Potentially Lapsed
+C0623,CHENNAI,2025-07-06 10:08:23,1,245.0,87.0,Low Engagement,Potentially Lapsed
+C0637,HYDERABAD,2025-07-06 17:07:39,1,80.75,87.0,Low Engagement,Potentially Lapsed
+C0515,MUMBAI,2025-07-07 10:50:51,5,1327.2,86.0,Regular,Potentially Lapsed
+C1163,MUMBAI,2025-07-07 07:44:26,3,664.05,86.0,Low Engagement,Potentially Lapsed
+C1104,DELHI,2025-07-07 13:33:57,3,504.6,86.0,Low Engagement,Potentially Lapsed
+C0307,BENGALURU,2025-07-07 08:50:25,2,361.2,86.0,Low Engagement,Potentially Lapsed
+C0781,HYDERABAD,2025-07-08 18:52:21,1,560.0,85.0,Low Engagement,Potentially Lapsed
+C0513,CHENNAI,2025-07-08 15:17:17,3,505.5,85.0,Low Engagement,Potentially Lapsed
+C1149,DELHI,2025-07-08 17:06:27,2,161.4,85.0,Low Engagement,Potentially Lapsed
+C0077,HYDERABAD,2025-07-08 19:28:14,1,150.0,85.0,Low Engagement,Potentially Lapsed
+C1031,PUNE,2025-07-09 13:00:35,6,5778.5,84.0,Regular,Potentially Lapsed
+C1034,HYDERABAD,2025-07-09 11:15:59,3,655.5,84.0,Low Engagement,Potentially Lapsed
+C0046,MUMBAI,2025-07-09 19:01:32,3,505.4,84.0,Low Engagement,Potentially Lapsed
+C1026,PUNE,2025-07-09 13:11:13,1,72.0,84.0,Low Engagement,Potentially Lapsed
+C0681,HYDERABAD,2025-07-10 14:04:51,7,5284.9,83.0,Regular,Potentially Lapsed
+C0318,PUNE,2025-07-10 10:41:54,3,475.8,83.0,Low Engagement,Potentially Lapsed
+C0518,PUNE,2025-07-10 13:29:49,3,245.75,83.0,Low Engagement,Potentially Lapsed
+C0361,BENGALURU,2025-07-11 17:02:00,5,4377.6,82.0,Regular,Potentially Lapsed
+C0183,BENGALURU,2025-07-12 09:45:41,4,513.2,81.0,Low Engagement,Potentially Lapsed
+C0423,BENGALURU,2025-07-12 08:53:48,1,116.0,81.0,Low Engagement,Potentially Lapsed
+C1013,MUMBAI,2025-07-13 07:10:11,3,2512.8,80.0,Regular,Potentially Lapsed
+C1004,DELHI,2025-07-13 11:57:08,2,112.8,80.0,Low Engagement,Potentially Lapsed
+C0419,PUNE,2025-07-14 15:51:13,4,1682.9,79.0,Regular,Potentially Lapsed
+C0887,DELHI,2025-07-15 15:03:23,4,2150.15,78.0,Regular,Potentially Lapsed
+C0254,MUMBAI,2025-07-15 09:42:36,4,307.15,78.0,Low Engagement,Potentially Lapsed
+C0087,DELHI,2025-07-15 21:15:18,2,302.5,78.0,Low Engagement,Potentially Lapsed
+C0397,PUNE,2025-07-15 10:00:30,3,288.5,78.0,Low Engagement,Potentially Lapsed
+C0323,DELHI,2025-07-15 18:46:21,1,116.0,78.0,Low Engagement,Potentially Lapsed
+C0166,HYDERABAD,2025-07-16 13:37:49,3,1402.25,77.0,Needs Attention,Potentially Lapsed
+C0660,CHENNAI,2025-07-16 15:08:17,2,300.0,77.0,Low Engagement,Potentially Lapsed
+C0635,CHENNAI,2025-07-16 14:11:04,4,292.2,77.0,Low Engagement,Potentially Lapsed
+C0156,MUMBAI,2025-07-16 11:56:59,1,280.0,77.0,Low Engagement,Potentially Lapsed
+C0573,BENGALURU,2025-07-17 16:42:05,5,1221.9,76.0,Regular,Potentially Lapsed
+C1194,MUMBAI,2025-07-17 18:51:27,3,461.5,76.0,Low Engagement,Potentially Lapsed
+C0012,BENGALURU,2025-07-18 07:19:17,4,3395.3,75.0,Regular,Potentially Lapsed
+C0377,PUNE,2025-07-18 10:26:47,4,980.6,75.0,Needs Attention,Potentially Lapsed
+C0273,HYDERABAD,2025-07-18 21:39:38,5,903.5,75.0,Needs Attention,Potentially Lapsed
+C0791,CHENNAI,2025-07-18 12:39:30,2,184.3,75.0,Low Engagement,Potentially Lapsed
+C0278,CHENNAI,2025-07-19 18:36:30,3,1534.5,74.0,Needs Attention,Potentially Lapsed
+C0661,DELHI,2025-07-19 18:49:58,5,558.5,74.0,Needs Attention,Potentially Lapsed
+C1177,HYDERABAD,2025-07-19 22:06:16,2,404.0,74.0,Low Engagement,Potentially Lapsed
+C0711,MUMBAI,2025-07-19 10:00:28,2,119.4,74.0,Low Engagement,Potentially Lapsed
+C1061,PUNE,2025-07-19 20:59:09,1,34.8,74.0,Low Engagement,Potentially Lapsed
+C0616,DELHI,2025-07-20 14:57:42,3,2518.6000000000004,73.0,Regular,Potentially Lapsed
+C0171,HYDERABAD,2025-07-20 08:22:42,4,956.6,73.0,Needs Attention,Potentially Lapsed
+C0771,PUNE,2025-07-20 17:36:44,2,171.0,73.0,Low Engagement,Potentially Lapsed
+C1050,PUNE,2025-07-20 10:19:04,2,162.75,73.0,Low Engagement,Potentially Lapsed
+C0849,PUNE,2025-07-20 22:10:53,1,129.0,73.0,Low Engagement,Potentially Lapsed
+C0512,HYDERABAD,2025-07-21 19:01:14,5,11617.65,72.0,Regular,Potentially Lapsed
+C0455,HYDERABAD,2025-07-21 09:40:26,4,1975.8,72.0,Regular,Potentially Lapsed
+C0015,BENGALURU,2025-07-21 21:31:44,3,718.8,72.0,Needs Attention,Potentially Lapsed
+C0121,CHENNAI,2025-07-21 09:12:35,3,527.4,72.0,Low Engagement,Potentially Lapsed
+C0838,BENGALURU,2025-07-21 08:38:21,2,432.5,72.0,Low Engagement,Potentially Lapsed
+C0365,BENGALURU,2025-07-21 17:37:58,2,96.0,72.0,Low Engagement,Potentially Lapsed
+C0038,CHENNAI,2025-07-21 18:28:47,1,48.0,72.0,Low Engagement,Potentially Lapsed
+C0407,BENGALURU,2025-07-22 17:52:26,8,9945.85,71.0,Regular,Potentially Lapsed
+C0912,PUNE,2025-07-22 12:19:54,5,897.6,71.0,Needs Attention,Potentially Lapsed
+C0262,MUMBAI,2025-07-22 14:40:22,3,739.0,71.0,Needs Attention,Potentially Lapsed
+C1106,BENGALURU,2025-07-22 08:04:20,3,485.0,71.0,Low Engagement,Potentially Lapsed
+C0961,BENGALURU,2025-07-22 12:18:47,3,483.0,71.0,Low Engagement,Potentially Lapsed
+C0340,BENGALURU,2025-07-22 11:17:49,1,314.1,71.0,Low Engagement,Potentially Lapsed
+C1003,PUNE,2025-07-23 11:03:24,5,3747.9,70.0,Regular,Potentially Lapsed
+C0259,DELHI,2025-07-23 14:38:25,5,959.0,70.0,Needs Attention,Potentially Lapsed
+C0224,HYDERABAD,2025-07-25 14:06:08,5,2434.0,68.0,Regular,Potentially Lapsed
+C0376,CHENNAI,2025-07-25 07:10:41,3,536.3,68.0,Low Engagement,Potentially Lapsed
+C1178,MUMBAI,2025-07-25 10:39:59,3,370.5,68.0,Low Engagement,Potentially Lapsed
+C1037,CHENNAI,2025-07-25 21:36:50,3,227.0,68.0,Low Engagement,Potentially Lapsed
+C1132,CHENNAI,2025-07-26 08:32:22,4,4776.9,67.0,Regular,Potentially Lapsed
+C0449,HYDERABAD,2025-07-26 22:13:18,3,1310.5,67.0,Needs Attention,Potentially Lapsed
+C0535,DELHI,2025-07-26 07:52:36,3,469.5,67.0,Low Engagement,Potentially Lapsed
+C0010,DELHI,2025-07-26 07:10:07,4,450.0,67.0,Low Engagement,Potentially Lapsed
+C0366,CHENNAI,2025-07-26 13:01:43,1,33.6,67.0,Low Engagement,Potentially Lapsed
+C0927,HYDERABAD,2025-07-27 19:16:31,4,767.65,66.0,Needs Attention,Potentially Lapsed
+C0215,HYDERABAD,2025-07-27 18:25:03,2,512.0,66.0,Low Engagement,Potentially Lapsed
+C1138,CHENNAI,2025-07-27 20:11:55,2,342.0,66.0,Low Engagement,Potentially Lapsed
+C1115,DELHI,2025-07-27 11:53:55,3,294.4,66.0,Low Engagement,Potentially Lapsed
+C1158,PUNE,2025-07-27 22:08:21,1,33.6,66.0,Low Engagement,Potentially Lapsed
+C0818,DELHI,2025-07-28 22:22:41,4,2860.0,65.0,Regular,Potentially Lapsed
+C0292,PUNE,2025-07-28 12:38:05,3,1012.0,65.0,Needs Attention,Potentially Lapsed
+C0706,BENGALURU,2025-07-28 07:42:06,2,672.0,65.0,Low Engagement,Potentially Lapsed
+C0222,HYDERABAD,2025-07-28 20:58:52,1,252.0,65.0,Low Engagement,Potentially Lapsed
+C1129,MUMBAI,2025-07-29 08:40:20,3,2902.85,64.0,Regular,Potentially Lapsed
+C0180,DELHI,2025-07-29 10:40:58,2,728.4,64.0,Low Engagement,Potentially Lapsed
+C0954,DELHI,2025-07-29 12:59:28,2,534.0,64.0,Low Engagement,Potentially Lapsed
+C0885,MUMBAI,2025-07-29 14:58:08,1,225.0,64.0,Low Engagement,Potentially Lapsed
+C0874,BENGALURU,2025-07-29 22:51:28,2,204.6,64.0,Low Engagement,Potentially Lapsed
+C0296,CHENNAI,2025-07-30 07:10:43,2,2767.1,63.0,Regular,Potentially Lapsed
+C1131,BENGALURU,2025-07-30 14:52:16,4,1091.8,63.0,Needs Attention,Potentially Lapsed
+C0328,PUNE,2025-07-30 14:27:32,2,331.5,63.0,Low Engagement,Potentially Lapsed
+C0499,PUNE,2025-07-30 11:52:20,2,278.8,63.0,Low Engagement,Potentially Lapsed
+C0405,HYDERABAD,2025-07-31 09:03:59,4,1208.2,62.0,Needs Attention,Potentially Lapsed
+C0019,CHENNAI,2025-07-31 14:16:46,3,955.0,62.0,Needs Attention,Potentially Lapsed
+C0605,MUMBAI,2025-07-31 11:36:07,4,685.0,62.0,Needs Attention,Potentially Lapsed
+C0863,MUMBAI,2025-07-31 12:53:36,2,581.75,62.0,Low Engagement,Potentially Lapsed
+C1040,PUNE,2025-07-31 08:05:17,2,135.0,62.0,Low Engagement,Potentially Lapsed
+C0295,DELHI,2025-07-31 13:10:16,2,100.2,62.0,Low Engagement,Potentially Lapsed
+C0825,BENGALURU,2025-08-01 17:11:24,6,4042.25,61.0,Regular,Potentially Lapsed
+C1101,BENGALURU,2025-08-01 12:49:47,5,699.5,61.0,Needs Attention,Potentially Lapsed
+C0715,MUMBAI,2025-08-01 22:35:54,4,671.1,61.0,Needs Attention,Potentially Lapsed
+C0648,DELHI,2025-08-01 09:13:11,1,142.5,61.0,Low Engagement,Potentially Lapsed
+C0743,HYDERABAD,2025-08-02 19:07:58,7,12730.05,60.0,Regular,Potentially Lapsed
+C1136,HYDERABAD,2025-08-02 18:58:14,6,9650.25,60.0,Regular,Potentially Lapsed
+C0391,CHENNAI,2025-08-02 15:58:05,3,1063.2,60.0,Needs Attention,Potentially Lapsed
+C0161,HYDERABAD,2025-08-02 08:46:36,3,708.2,60.0,Needs Attention,Potentially Lapsed
+C0891,HYDERABAD,2025-08-02 17:13:10,5,487.45,60.0,Needs Attention,Potentially Lapsed
+C0283,MUMBAI,2025-08-02 14:40:23,2,408.0,60.0,Low Engagement,Potentially Lapsed
+C0935,DELHI,2025-08-02 13:02:12,2,378.0,60.0,Low Engagement,Potentially Lapsed
+C0204,PUNE,2025-08-02 14:33:42,3,266.8,60.0,Low Engagement,Potentially Lapsed
+C0279,HYDERABAD,2025-08-02 22:51:02,2,250.0,60.0,Low Engagement,Potentially Lapsed
+C0789,HYDERABAD,2025-08-02 09:02:34,1,52.2,60.0,Low Engagement,Potentially Lapsed

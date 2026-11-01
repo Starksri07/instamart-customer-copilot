@@ -1,0 +1,7 @@
+test_id,question,expected_source,retrieved_sources,retrieved_count,passed,status
+1,When can a customer receive a full refund?,refund_policy.txt,refund_policy.txt; refund_policy.txt; refund_policy.txt,3,True,PASS
+2,How long does a failed payment refund take?,payment_policy.txt,privacy_policy.txt; refund_policy.txt; payment_policy.txt,3,True,PASS
+3,What happens when a customer reports fraud?,escalation_policy.txt,escalation_policy.txt; escalation_policy.txt; refund_policy.txt,3,True,PASS
+4,How are customer phone numbers protected?,privacy_policy.txt,privacy_policy.txt; privacy_policy.txt; escalation_policy.txt,3,True,PASS
+5,How long is the standard delivery time?,delivery_policy.txt,delivery_policy.txt; delivery_policy.txt; delivery_policy.txt,3,True,PASS
+6,Explain quantum teleportation and distant galaxies.,ZERO_OVERLAP,,0,True,PASS
